@@ -5,3 +5,9 @@ img {
 hr {
     clear: both;
 }
+h1 {
+    background-color: blue;
+    padding: 40px;
+    margin: 0px;
+    font-size: 50px;
+}
