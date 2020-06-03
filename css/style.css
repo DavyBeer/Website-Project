@@ -14,9 +14,15 @@ h1 {
     font-size: 50px;
 }
 
+h2, h3 {
+    text-align: center;
+    font-family: "Trebuchet MS", Helvetica, sans-serif
+}
+
 li {
     padding: 0 0 40px 0;
     font-size: 20px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif
 }
 
 nav {
@@ -24,7 +30,7 @@ nav {
 }
 
 div.gallery {
-    margin: 5px;
+    margin: 10px;
     border: 1px solid #ccc;
     float: left;
     width: 180px;
@@ -42,4 +48,8 @@ div.gallery img {
 div.desc {
     padding: 15px;
     text-align: center;
+}
+
+.helvetica {
+    font-family: Helvetica, arial, sans-serif;
 }
