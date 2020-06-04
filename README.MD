@@ -2,4 +2,4 @@
 - It is a website that allows users to lookup different muscle groups via easy to understand pictures and view corresponding exercises to - devlop those areas of the body <br>
 - There is a navigation bar up top that will take the user to different pages depending on what region of the body they seek to exercise. Each page will contain images of muscle groups and have text describing different workouts and how to do them. The main menu will have a gallery of muscle group images that will link directly to that images location on the appropriate page for streamlined navigation. At the bottom of the main menu page, there will be a carousel that cycles randomly through linked images that will also go to the appropriate page. <br>
 - This website employs .html and .css <br>
-- Future versions of this website will aim to add user login, customizable workout plans, and notifications for the user on what workouts they have lined up for that day. <br>
+- Future versions of this website will aim to add user login, customizable workout plans, and notifications for the user on what workouts they have lined up for that day, hover gifs to showcase the exercises. <br>
