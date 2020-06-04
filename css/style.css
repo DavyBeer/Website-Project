@@ -54,3 +54,12 @@ div.desc {
 .helvetica {
     font-family: Helvetica, arial, sans-serif;
 }
+
+#frontNav {
+    background-color: #ffd9b3;
+}
+
+div {
+    border: 3px solid #ccc;
+    padding: #00b8e6;
+}
